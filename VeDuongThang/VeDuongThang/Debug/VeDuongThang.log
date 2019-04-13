@@ -1,0 +1,13 @@
+﻿Build started 18/03/2017 11:43:04 AM.
+     1>Project "C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2013\Projects\VeDuongThang\VeDuongThang\VeDuongThang.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\VeDuongThang.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VeDuongThangDlg.cpp
+         VeDuongThangDlg.cpp
+     1>c:\users\nguyen dang tinh\documents\visual studio 2013\projects\veduongthang\veduongthang\veduongthangdlg.cpp(74): error C2039: 'OnEnChangeEdit1' : is not a member of 'CVeDuongThangDlg'
+                 c:\users\nguyen dang tinh\documents\visual studio 2013\projects\veduongthang\veduongthang\veduongthangdlg.h(9) : see declaration of 'CVeDuongThangDlg'
+     1>c:\users\nguyen dang tinh\documents\visual studio 2013\projects\veduongthang\veduongthang\veduongthangdlg.cpp(74): error C2065: 'OnEnChangeEdit1' : undeclared identifier
+     1>Done Building Project "C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2013\Projects\VeDuongThang\VeDuongThang\VeDuongThang.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.28

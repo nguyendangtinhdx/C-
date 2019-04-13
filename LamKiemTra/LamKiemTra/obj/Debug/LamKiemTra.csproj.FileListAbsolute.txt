@@ -1,0 +1,9 @@
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\LamKiemTra\LamKiemTra\bin\Debug\LamKiemTra.exe.config
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\LamKiemTra\LamKiemTra\obj\Debug\LamKiemTra.csprojResolveAssemblyReference.cache
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\LamKiemTra\LamKiemTra\obj\Debug\LamKiemTra.frmSinhVien.resources
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\LamKiemTra\LamKiemTra\obj\Debug\LamKiemTra.Properties.Resources.resources
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\LamKiemTra\LamKiemTra\obj\Debug\LamKiemTra.csproj.GenerateResource.Cache
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\LamKiemTra\LamKiemTra\bin\Debug\LamKiemTra.exe
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\LamKiemTra\LamKiemTra\bin\Debug\LamKiemTra.pdb
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\LamKiemTra\LamKiemTra\obj\Debug\LamKiemTra.exe
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\LamKiemTra\LamKiemTra\obj\Debug\LamKiemTra.pdb

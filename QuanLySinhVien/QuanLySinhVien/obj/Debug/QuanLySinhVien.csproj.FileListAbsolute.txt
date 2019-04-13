@@ -1,0 +1,15 @@
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_login.resources
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+c:\users\nguyen dang tinh\documents\visual studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_main.resources
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_chuyennganh.resources
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_diem.resources
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_lop.resources
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_monhoc.resources
+C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2015\Projects\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frm_nganh.resources

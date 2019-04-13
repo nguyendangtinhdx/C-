@@ -1,0 +1,13 @@
+﻿Build started 10/04/2017 9:50:32 AM.
+     1>Project "C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2013\Projects\array\array\array.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\array.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt array.cpp
+         array.cpp
+     1>c:\users\nguyen dang tinh\documents\visual studio 2013\projects\array\array\array.cpp(48): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\nguyen dang tinh\documents\visual studio 2013\projects\array\array\array.cpp(84): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>Done Building Project "C:\Users\Nguyen Dang Tinh\Documents\Visual Studio 2013\Projects\array\array\array.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.84
